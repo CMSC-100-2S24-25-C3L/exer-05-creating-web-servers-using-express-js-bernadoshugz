@@ -1,0 +1,26 @@
+{
+  "name": "exer-05-creating-web-servers-using-express-js-bernadoshugz",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/PsgfsGaD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMSC-100-2S24-25-C3L/exer-05-creating-web-servers-using-express-js-bernadoshugz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMSC-100-2S24-25-C3L/exer-05-creating-web-servers-using-express-js-bernadoshugz/issues"
+  },
+  "homepage": "https://github.com/CMSC-100-2S24-25-C3L/exer-05-creating-web-servers-using-express-js-bernadoshugz#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "needle": "^3.3.1"
+  }
+}
